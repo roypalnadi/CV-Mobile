@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620105222727",
+    "project_id": "cv-mobile-a5dbf",
+    "storage_bucket": "cv-mobile-a5dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620105222727:android:1ffd07ec82c525fb32ff62",
+        "android_client_info": {
+          "package_name": "com.cv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620105222727-qoepcv525jftt46rlh3cjbvndpiaf6pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-mc9Tbnk1tkb49CXujLuIuGv84obk9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620105222727-qoepcv525jftt46rlh3cjbvndpiaf6pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
